@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>各省地名使用频率分布图</title>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            font-family: 'Microsoft YaHei', Arial, sans-serif;
+            background: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 24px;
+        }
+        .header p {
+            margin: 10px 0 0 0;
+            opacity: 0.9;
+        }
+        #map {
+            width: 100%;
+            height: 1800px;
+        }
+        .stats {
+            padding: 20px;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            background: #fafafa;
+        }
+        .stat-item {
+            background: white;
+            padding: 15px;
+            border-radius: 6px;
+            text-align: center;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .stat-value {
+            font-size: 24px;
+            font-weight: bold;
+            color: #667eea;
+        }
+        .stat-label {
+            font-size: 14px;
+            color: #666;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>各省地名在上海路名中的使用频率分布</h1>
+            <p>基于上海市以外地命名的道路统计数据</p>
+        </div>
+        
+        <div id="map"></div>
+        
+        <div class="stats">
+            <div class="stat-item">
+                <div class="stat-value">33</div>
+                <div class="stat-label">涉及省份/直辖市</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value">493</div>
+                <div class="stat-label">路名总数</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value">44</div>
+                <div class="stat-label">最高频次(新疆)</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value">16</div>
+                <div class="stat-label">上海市区数</div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const chartDom = document.getElementById('map');
+        const myChart = echarts.init(chartDom);
+
+        const option = {
+            title: {
+                text: '各省地名使用频率',
+                subtext: '数据来源：上海市道路命名统计',
+                left: 'center',
+                textStyle: {
+                    fontSize: 18,
+                    color: '#333'
+                },
+                subtextStyle: {
+                    fontSize: 12,
+                    color: '#666'
+                }
+            },
+            series: [
+                {
+                    name: '地名使用频率',
+                    type: 'map',
+                    map: 'china',
+                    roam: false,
+                    label: {
+                        show: true,
+                        formatter: function(params) {
+                            const counts = {
+                                '新疆维吾尔自治区': 44, '云南省': 39, '江苏省': 33, '黑龙江省': 29, '浙江省': 27,
+                                '山东省': 25, '贵州省': 25, '河北省': 24, '辽宁省': 24, '四川省': 22,
+                                '山西省': 20, '甘肃省': 19, '湖南省': 18, '广东省': 18, '陕西省': 17,
+                                '广西壮族自治区': 16, '内蒙古自治区': 13, '吉林省': 13, '湖北省': 12, '福建省': 7,
+                                '安徽省': 6, '江西省': 5, '河南省': 5, '台湾省': 4, '北京市': 4,
+                                '香港特别行政区': 2, '西藏自治区': 2, '青海省': 2, '宁夏回族自治区': 2, '天津市': 1,
+                                '澳门特别行政区': 1
+                            };
+                            const count = counts[params.name];
+                            return count ? params.name + '\n' + count : params.name;
+                        },
+                        fontSize: 14,
+                        color: '#333',
+                        fontWeight: 'bold'
+                    },
+                    itemStyle: {
+                        areaColor: '#f0f0f0',
+                        borderColor: '#999'
+                    },
+                    emphasis: {
+                        itemStyle: {
+                            areaColor: '#ddd'
+                        }
+                    },
+                    data: []
+                }
+            ]
+        };
+
+        fetch('https://geo.datav.aliyun.com/areas_v3/bound/100000_full.json')
+            .then(response => response.json())
+            .then(geoJson => {
+                echarts.registerMap('china', geoJson);
+                myChart.setOption(option);
+            });
+    </script>
+</body>
+</html>
