@@ -1,0 +1,2892 @@
+{
+district: "杨浦区",
+road: "沈阳路",
+province: "辽宁",
+info: "20世纪初建，随杨树浦工业区发展形成"
+},
+{
+district: "杨浦区",
+road: "大连路",
+province: "辽宁",
+info: "跨虹口杨浦主干道，1930年代建，"大上海计划"重要干道"
+},
+{
+district: "杨浦区",
+road: "营口路",
+province: "辽宁",
+info: "1922年建，原马玉山路，1956年更名，沿线有控江新村"
+},
+{
+district: "杨浦区",
+road: "辽阳路",
+province: "辽宁",
+info: "1917年建早期辽宁地名路，连接西部与市中心"
+},
+{
+district: "杨浦区",
+road: "鞍山路",
+province: "辽宁",
+info: "1950年代建，周边鞍山新村，"两万户"工人新村组成"
+},
+{
+district: "杨浦区",
+road: "铁岭路",
+province: "辽宁",
+info: "1953-1954年建，沿路住宅区，靠近地铁站"
+},
+{
+district: "杨浦区",
+road: "本溪路",
+province: "辽宁",
+info: "1952年建，东北地名系列路，周边本溪路工人新村"
+},
+{
+district: "杨浦区",
+road: "黑山路",
+province: "辽宁",
+info: "1950年代建早期东北地名路，周边住宅区学校"
+},
+{
+district: "杨浦区",
+road: "彰武路",
+province: "辽宁",
+info: "1954年建，周边同济大学多学院，产学研商住一体化"
+},
+{
+district: "杨浦区",
+road: "阜新路",
+province: "辽宁",
+info: "1950年代建，与打虎山路相交重要交通节点"
+},
+{
+district: "杨浦区",
+road: "丹东路",
+province: "辽宁",
+info: "滨江南段，北邻水厂码头南有轮渡站，连接浦东通道"
+},
+{
+district: "杨浦区",
+road: "苏家屯路",
+province: "辽宁",
+info: "1954年建，构成杨浦西部东北地名道路群"
+},
+{
+district: "杨浦区",
+road: "锦西路",
+province: "辽宁",
+info: "1950年代建，与苏家屯路相交重要交通节点"
+},
+{
+district: "杨浦区",
+road: "凤城路",
+province: "辽宁",
+info: "1950年代建，周边凤城新村等工人住宅区"
+},
+{
+district: "杨浦区",
+road: "庄河路",
+province: "辽宁",
+info: "1950年代建，2025年架空线入地整治工程"
+},
+{
+district: "杨浦区",
+road: "海城路",
+province: "辽宁",
+info: "1950年代建，与鞍山路相交重要交通节点"
+},
+{
+district: "杨浦区",
+road: "千山路",
+province: "辽宁",
+info: "1950年代建，连接杨浦西部与中部重要通道"
+},
+{
+district: "杨浦区",
+road: "盘山路",
+province: "辽宁",
+info: "1950年代建，与彰武路相交重要交通节点"
+},
+{
+district: "杨浦区",
+road: "万福路",
+province: "辽宁",
+info: "1950年代建，周边住宅区和学校"
+},
+{
+district: "杨浦区",
+road: "沙岗路",
+province: "辽宁",
+info: "1950年代建，与鞍山路相交重要交通节点"
+},
+{
+district: "杨浦区",
+road: "安波路",
+province: "辽宁",
+info: "1950年代建，连接杨浦西部与中部重要通道"
+},
+{
+district: "杨浦区",
+road: "吉林路",
+province: "吉林",
+info: "20世纪初建，随杨树浦工业区发展形成"
+},
+{
+district: "杨浦区",
+road: "敦化路",
+province: "吉林",
+info: "1950年代建，承载"两万户"工人新村集体生活记忆"
+},
+{
+district: "杨浦区",
+road: "图们路",
+province: "吉林",
+info: "1952年建，2025年路面提升工程"
+},
+{
+district: "杨浦区",
+road: "延吉路",
+province: "吉林",
+info: "1950年代建，周边延吉新村等"两万户"工人新村"
+},
+{
+district: "杨浦区",
+road: "安图路",
+province: "吉林",
+info: "1950年代建，黄兴公园商圈，周边多所学校"
+},
+{
+district: "杨浦区",
+road: "白城路",
+province: "吉林",
+info: "1950年代建，2024年设防汛仓库基地"
+},
+{
+district: "杨浦区",
+road: "舒兰路",
+province: "吉林",
+info: "1950年代建，1999年成立舒兰路居委会"
+},
+{
+district: "杨浦区",
+road: "辽源路",
+province: "吉林",
+info: "1957-1958年建，分东西两段，社区生活圈基本单元"
+},
+{
+district: "杨浦区",
+road: "嫩江路",
+province: "黑龙江",
+info: "1950年代建，2025年道路延伸和架空线入地工程"
+},
+{
+district: "杨浦区",
+road: "松花江路",
+province: "黑龙江",
+info: "1950年代建，连接杨浦中部与东北部主干道"
+},
+{
+district: "杨浦区",
+road: "佳木斯路",
+province: "黑龙江",
+info: "1950年代建，周边住宅区和学校"
+},
+{
+district: "杨浦区",
+road: "齐齐哈尔路",
+province: "黑龙江",
+info: "1913年建，历经多次更名，见证工业区发展历程"
+},
+{
+district: "杨浦区",
+road: "虎林路",
+province: "黑龙江",
+info: "1950年代建，连接杨浦东北部与市中心"
+},
+{
+district: "杨浦区",
+road: "武川路",
+province: "内蒙古",
+info: "20世纪初建，连接杨浦西部与市中心"
+},
+{
+district: "杨浦区",
+road: "包头路",
+province: "内蒙古",
+info: "20世纪初建主干道，周边住宅商业区"
+},
+{
+district: "杨浦区",
+road: "邯郸路",
+province: "河北",
+info: "1922年建，多次更名，纪念邯郸战役"
+},
+{
+district: "杨浦区",
+road: "沧州路",
+province: "河北",
+info: "20世纪初建，连接杨浦西部与市中心"
+},
+{
+district: "杨浦区",
+road: "许昌路",
+province: "河南",
+info: "20世纪初建，连接杨浦西部与市中心"
+},
+{
+district: "杨浦区",
+road: "扬州路",
+province: "江苏",
+info: "20世纪初建，连接杨浦南部与市中心"
+},
+{
+district: "杨浦区",
+road: "海州路",
+province: "江苏",
+info: "20世纪初建，2025年启动道路新建工程"
+},
+{
+district: "杨浦区",
+road: "海安路",
+province: "江苏",
+info: "20世纪初建，连接杨浦南部与市中心"
+},
+{
+district: "杨浦区",
+road: "杭州路",
+province: "浙江",
+info: "20世纪初建，连接杨浦南部与市中心"
+},
+{
+district: "杨浦区",
+road: "荆州路",
+province: "湖北",
+info: "20世纪初建，连接杨浦南部与市中心"
+},
+{
+district: "杨浦区",
+road: "内江路",
+province: "四川",
+info: "20世纪初建，2023年全面改造提升"
+},
+{
+district: "杨浦区",
+road: "眉州路",
+province: "四川",
+info: "20世纪初建，连接杨浦南部与市中心"
+},
+{
+district: "杨浦区",
+road: "松潘路",
+province: "四川",
+info: "20世纪初建，连接杨浦南部与市中心"
+},
+{
+district: "杨浦区",
+road: "广州路",
+province: "广东",
+info: "20世纪初建，连接杨浦南部与市中心"
+},
+{
+district: "杨浦区",
+road: "兰州路",
+province: "甘肃",
+info: "20世纪初建，有千年古刹太平报恩寺，2025年整治"
+},
+{
+district: "杨浦区",
+road: "凉州路",
+province: "甘肃",
+info: "原客勃尔路，1943年改现名，长约910米"
+},
+{
+district: "杨浦区",
+road: "四平路",
+province: "吉林",
+info: "贯穿五角场商圈，有百联又一城商业综合体"
+},
+{
+district: "杨浦区",
+road: "长春路",
+province: "吉林",
+info: "区内主干道，商住混合区"
+},
+{
+district: "杨浦区",
+road: "通化路",
+province: "吉林",
+info: "沿街餐饮和生活服务设施集中"
+},
+{
+district: "杨浦区",
+road: "抚顺路",
+province: "辽宁",
+info: "以居民区为主的生活街区"
+},
+{
+district: "杨浦区",
+road: "河间路",
+province: "河北",
+info: "社区微更新示范区"
+},
+{
+district: "杨浦区",
+road: "宁国路",
+province: "安徽",
+info: "12号线地铁站沿线商业区"
+},
+{
+district: "杨浦区",
+road: "怀德路",
+province: "四川",
+info: "平凉童梦悦读园所在地"
+},
+{
+district: "杨浦区",
+road: "惠民路",
+province: "山东",
+info: "历史风貌保护区，犹太难民旧居地"
+},
+{
+district: "杨浦区",
+road: "隆昌路",
+province: "四川",
+info: "城市概念创意园所在地"
+},
+{
+district: "杨浦区",
+road: "江浦路",
+province: "江苏",
+info: "双线地铁站点，近江浦公园"
+},
+{
+district: "杨浦区",
+road: "定海路",
+province: "浙江",
+info: "历史建筑与社区项目集中地"
+},
+{
+district: "杨浦区",
+road: "长阳路",
+province: "湖北",
+info: "美丽街区改造示范段"
+},
+{
+district: "杨浦区",
+road: "平凉路",
+province: "甘肃",
+info: "文化设施集中，历史现代交融"
+},
+{
+district: "杨浦区",
+road: "腾越路",
+province: "云南",
+info: "分两段不相连，对应滇西抗战历史名城"
+},
+{
+district: "虹口区",
+road: "霍山路",
+province: "安徽",
+info: "近商业中心"
+},
+{
+district: "虹口区",
+road: "黄山路",
+province: "安徽",
+info: "文教区"
+},
+{
+district: "虹口区",
+road: "拓皋路",
+province: "安徽",
+info: "住宅区道路"
+},
+{
+district: "虹口区",
+road: "梧州路",
+province: "广西",
+info: "文教区"
+},
+{
+district: "虹口区",
+road: "高阳路",
+province: "河北",
+info: "原兆丰路，多红砖历史建筑"
+},
+{
+district: "虹口区",
+road: "保定路",
+province: "河北",
+info: "居住区"
+},
+{
+district: "虹口区",
+road: "秦皇岛路",
+province: "河北",
+info: "商业街"
+},
+{
+district: "虹口区",
+road: "衡水路",
+province: "河北",
+info: "社区道路"
+},
+{
+district: "虹口区",
+road: "大名路",
+province: "河北",
+info: "历史街区"
+},
+{
+district: "虹口区",
+road: "沽源路",
+province: "河北",
+info: "近公园"
+},
+{
+district: "虹口区",
+road: "曲阳路",
+province: "河北",
+info: "主要交通干道"
+},
+{
+district: "虹口区",
+road: "玉田路",
+province: "河北",
+info: "居民区道路"
+},
+{
+district: "虹口区",
+road: "新乡路",
+province: "河南",
+info: "商业区"
+},
+{
+district: "虹口区",
+road: "商丘路",
+province: "河南",
+info: "居民区"
+},
+{
+district: "虹口区",
+road: "武昌路",
+province: "湖北",
+info: "近代广东移民聚居地"
+},
+{
+district: "虹口区",
+road: "汉阳路",
+province: "湖北",
+info: "与武昌路相邻成历史街区"
+},
+{
+district: "虹口区",
+road: "沙市路",
+province: "湖北",
+info: "原为独立地级市沙市市，后与荆州合并，现为荆州市沙市区。"
+},
+{
+district: "虹口区",
+road: "东汉阳路",
+province: "湖北",
+info: "近商圈"
+},
+{
+district: "虹口区",
+road: "株洲路",
+province: "湖南",
+info: "居住区"
+},
+{
+district: "虹口区",
+road: "芷江路",
+province: "湖南",
+info: "位于虹口区近四川北路，以湖南芷江县命名"
+},
+{
+district: "虹口区",
+road: "哈尔滨路",
+province: "黑龙江",
+info: "曾为游民聚居地，现为文创街区"
+},
+{
+district: "虹口区",
+road: "海伦路",
+province: "黑龙江",
+info: "与哈尔滨路同属历史片区"
+},
+{
+district: "虹口区",
+road: "松花江路",
+province: "黑龙江",
+info: "沿江道路"
+},
+{
+district: "虹口区",
+road: "昆山路",
+province: "江苏",
+info: "虹口最早道路，有景林堂"
+},
+{
+district: "虹口区",
+road: "溧阳路",
+province: "江苏",
+info: "花园洋房密集名人旧居多"
+},
+{
+district: "虹口区",
+road: "丹徒路",
+province: "江苏",
+info: "传统街区"
+},
+{
+district: "虹口区",
+road: "武进路",
+province: "江苏",
+info: "商业区"
+},
+{
+district: "虹口区",
+road: "海门路",
+province: "江苏",
+info: "近商圈"
+},
+{
+district: "虹口区",
+road: "四平路",
+province: "吉林",
+info: "主干道，以秋季银杏闻名"
+},
+{
+district: "虹口区",
+road: "长春路",
+province: "吉林",
+info: "商业街区"
+},
+{
+district: "虹口区",
+road: "辽宁路",
+province: "辽宁",
+info: "保留老式民居，近1933老场坊"
+},
+{
+district: "虹口区",
+road: "旅顺路",
+province: "辽宁",
+info: "历史街区"
+},
+{
+district: "虹口区",
+road: "赤峰路",
+province: "内蒙古",
+info: "近多伦路商圈"
+},
+{
+district: "虹口区",
+road: "凉城路",
+province: "内蒙古",
+info: "重要横向主干道"
+},
+{
+district: "虹口区",
+road: "伊敏河路",
+province: "内蒙古",
+info: "连接虹口公园"
+},
+{
+district: "虹口区",
+road: "巴林路",
+province: "内蒙古",
+info: "历史住宅区"
+},
+{
+district: "虹口区",
+road: "腾克路",
+province: "内蒙古",
+info: "近邻里中心"
+},
+{
+district: "虹口区",
+road: "辉河路",
+province: "内蒙古",
+info: "小型社区道路"
+},
+{
+district: "虹口区",
+road: "甘河路",
+province: "内蒙古",
+info: "传统街区"
+},
+{
+district: "虹口区",
+road: "多伦路",
+province: "内蒙古",
+info: "著名文化名人街"
+},
+{
+district: "虹口区",
+road: "海拉尔路",
+province: "内蒙古",
+info: "近江湾体育场"
+},
+{
+district: "虹口区",
+road: "西安路",
+province: "陕西",
+info: "主干道"
+},
+{
+district: "虹口区",
+road: "四川北路",
+province: "四川",
+info: "商业街含鲁迅公园文化地标"
+},
+{
+district: "虹口区",
+road: "峨眉路",
+province: "四川",
+info: "文教区"
+},
+{
+district: "虹口区",
+road: "舟山路",
+province: "浙江",
+info: "二战犹太难民区小维也纳"
+},
+{
+district: "虹口区",
+road: "乍浦路",
+province: "浙江",
+info: "历史文化街区"
+},
+{
+district: "虹口区",
+road: "嘉兴路",
+province: "浙江",
+info: "商业街区"
+},
+{
+district: "虹口区",
+road: "南浔路",
+province: "浙江",
+info: "传统住宅区"
+},
+{
+district: "虹口区",
+road: "山阴路",
+province: "浙江",
+info: "老式里弄密集"
+},
+{
+district: "虹口区",
+road: "海宁路",
+province: "浙江",
+info: "滨江地带"
+},
+{
+district: "虹口区",
+road: "九龙路",
+province: "香港",
+info: "沿俞泾浦连接北外滩步道"
+},
+{
+district: "虹口区",
+road: "昆明路",
+province: "云南",
+info: "商业街"
+},
+{
+district: "虹口区",
+road: "天水路",
+province: "甘肃",
+info: "社区道路"
+},
+{
+district: "虹口区",
+road: "甘肃路",
+province: "甘肃",
+info: "位于虹口区近四川北路，靠近苏州河北岸，以甘肃省命名"
+},
+{
+district: "虹口区",
+road: "峨山路",
+province: "山东",
+info: "位于虹口区，以山东枣庄市峨山命名"
+},
+{
+district: "静安区",
+road: "北京西路",
+province: "北京",
+info: "上海“北京路”的西段延伸，保留历史风貌与商业功能，沿路分布历史建筑。"
+},
+{
+district: "静安区",
+road: "通州路",
+province: "北京市",
+info: "位于静安区，以原属河北后划归北京的通州区命名"
+},
+{
+district: "静安区",
+road: "密云路",
+province: "北京市",
+info: "以北京市密云区命名"
+},
+{
+district: "静安区",
+road: "塘沽路",
+province: "天津市",
+info: "位于静安区，以原属河北后划归天津的塘沽地区命名"
+},
+{
+district: "静安区",
+road: "南京西路",
+province: "江苏",
+info: "核心商业街西段，汇聚恒隆广场、中信泰富广场等高端商业综合体。"
+},
+{
+district: "静安区",
+road: "江宁路",
+province: "江苏",
+info: "以南京市江宁区命名，位于静安区核心地段"
+},
+{
+district: "静安区",
+road: "六合路",
+province: "江苏",
+info: "以南京市六合区命名，位于静安区北部"
+},
+{
+district: "静安区",
+road: "凤阳路",
+province: "安徽",
+info: "东西向道路，连接石门一路与成都北路，周边为商务区。"
+},
+{
+district: "静安区",
+road: "安义路",
+province: "江西",
+info: "静安寺商圈内短支路，以静安嘉里中心北侧步行街闻名（安义夜巷）。"
+},
+{
+district: "静安区",
+road: "安远路",
+province: "江西",
+info: "跨静安与普陀两区，江宁路桥附近，主要为居民生活区。"
+},
+{
+district: "静安区",
+road: "延平路",
+province: "福建",
+info: "武定路至康定路段，周边有创意园区与社区商业。"
+},
+{
+district: "静安区",
+road: "乌鲁木齐北路",
+province: "新疆",
+info: "与徐汇区乌鲁木齐南路相连，分布商务办公楼及使馆区建筑。"
+},
+{
+district: "静安区",
+road: "民和路",
+province: "青海",
+info: "静安区北部（近大宁商圈），连接沪太路与共和新路。"
+},
+{
+district: "静安区",
+road: "新疆路",
+province: "新疆",
+info: "东西向主干道，连接西藏北路与共和新路，周边为混合功能区。"
+},
+{
+district: "静安区",
+road: "常德路",
+province: "湖南",
+info: "纵贯静安区主干道，南起延安中路，北至安远路，沿路有写字楼、酒店及零售商铺。"
+},
+{
+district: "静安区",
+road: "铜仁路",
+province: "贵州",
+info: "南起延安中路，北至北京西路，串联静安寺商圈核心地标（上海展览中心、静安嘉里中心、静安寺）。"
+},
+{
+district: "静安区",
+road: "临汾路",
+province: "山西",
+info: "主干道，贯穿静安北部居民区核心，沿线有大型社区、商业街和公共服务设施，长约2.3公里。"
+},
+{
+district: "静安区",
+road: "阳泉路",
+province: "山西",
+info: "社区支路，连接临汾路与保德路，服务住宅区边界，生活通道，长约0.6公里。"
+},
+{
+district: "静安区",
+road: "闻喜路",
+province: "山西",
+info: "山西地名群核心道路，服务于周边密集居民区，社区生活枢纽。"
+},
+{
+district: "静安区",
+road: "灵石路",
+province: "山西",
+info: "山西地名群分支道路，社区生活通道，连接住宅与商业区。"
+},
+{
+district: "静安区",
+road: "汾西路",
+province: "山西",
+info: "山西地名群分支道路，住宅区服务道路，便捷生活通道。"
+},
+{
+district: "静安区",
+road: "大宁路",
+province: "宁夏",
+info: "原以宁夏大宁县命名，现为本地核心道路，商业与住宅服务特色鲜明。"
+},
+{
+district: "静安区",
+road: "保德路",
+province: "山西",
+info: "山西地名群分支道路，社区边界道路，服务多住宅区。"
+},
+{
+district: "静安区",
+road: "阳曲路",
+province: "山西",
+info: "山西地名群分支道路，连接住宅区，生活服务便捷。"
+},
+{
+district: "静安区",
+road: "曲沃路",
+province: "山西",
+info: "山西地名群分支道路，社区生活通道，周边配套完善。"
+},
+{
+district: "静安区",
+road: "寿阳路",
+province: "山西",
+info: "山西地名群分支道路，公共服务集中，社区便利道路。"
+},
+{
+district: "静安区",
+road: "平型关路",
+province: "山西",
+info: "山西地名群分支道路，以历史关隘命名，社区道路特色突出。"
+},
+{
+district: "静安区",
+road: "山西路",
+province: "山西",
+info: "跨静安与黄浦两区交界，以山西省命名，是上海较早以省份命名的道路之一"
+},
+{
+district: "静安区",
+road: "太原路",
+province: "山西",
+info: "以山西省会太原市命名"
+},
+{
+district: "静安区",
+road: "汾阳路",
+province: "山西",
+info: "以山西吕梁市代管的汾阳市命名"
+},
+{
+district: "静安区",
+road: "长治路",
+province: "山西",
+info: "以山西长治市命名"
+},
+{
+district: "静安区",
+road: "襄阳北路",
+province: "湖北",
+info: "与襄阳南路呈南北走向，形成襄阳地名路组。"
+},
+{
+district: "静安区",
+road: "襄阳南路",
+province: "湖北",
+info: "与襄阳北路相连，共同构成以湖北襄阳命名的道路系统。"
+},
+{
+district: "静安区",
+road: "枣阳路",
+province: "湖北",
+info: "位于静安区北部，以襄阳代管县级市命名。"
+},
+{
+district: "静安区",
+road: "巨鹿路",
+province: "河北",
+info: "位于静安区，以河北巨鹿县命名"
+},
+{
+district: "静安区",
+road: "石门路",
+province: "河北",
+info: "位于静安区，以石家庄市古称"石门"命名"
+},
+{
+district: "静安区",
+road: "邯郸路",
+province: "河北",
+info: "位于静安区，以河北邯郸市命名"
+},
+{
+district: "静安区",
+road: "大名路",
+province: "河北",
+info: "位于静安区，以河北大名县命名"
+},
+{
+district: "静安区",
+road: "曲阳路",
+province: "河北",
+info: "位于静安区，以河北曲阳县命名"
+},
+{
+district: "静安区",
+road: "高阳路",
+province: "河北",
+info: "位于静安区，以河北高阳县命名"
+},
+{
+district: "静安区",
+road: "保定路",
+province: "河北",
+info: "位于静安区，以河北保定市命名"
+},
+{
+district: "静安区",
+road: "唐山路",
+province: "河北",
+info: "位于静安区，以河北唐山市命名"
+},
+{
+district: "静安区",
+road: "正定路",
+province: "河北",
+info: "位于静安区，以河北正定县命名"
+},
+{
+district: "静安区",
+road: "玉田路",
+province: "河北",
+info: "位于静安区，以河北玉田县命名"
+},
+{
+district: "静安区",
+road: "沧州路",
+province: "河北",
+info: "位于静安区，以河北沧州市命名"
+},
+{
+district: "静安区",
+road: "秦皇岛路",
+province: "河北",
+info: "位于静安区，以河北秦皇岛市命名"
+},
+{
+district: "静安区",
+road: "延安西路",
+province: "陕西",
+info: "以陕西延安市命名"
+},
+{
+district: "静安区",
+road: "武定路",
+province: "云南",
+info: "连接静安寺与曹家渡，中共中央特科机关旧址所在地"
+},
+{
+district: "静安区",
+road: "富民路",
+province: "云南",
+info: "与巨鹿路交界，保留民国建筑风貌"
+},
+{
+district: "宝山区",
+road: "天祝路",
+province: "甘肃",
+info: "以甘肃天祝藏族自治县命名"
+},
+{
+district: "宝山区",
+road: "祁连山路",
+province: "甘肃",
+info: "以甘肃张掖市下辖的祁连县命名"
+},
+{
+district: "宝山区",
+road: "通河路",
+province: "黑龙江",
+info: "1992-1993年筑，北起富锦路南至泗塘老年活动中心，长1.2公里"
+},
+{
+district: "宝山区",
+road: "克山路",
+province: "黑龙江",
+info: "北起富锦路南至泗塘老年活动中心，长1.2公里"
+},
+{
+district: "宝山区",
+road: "呼兰路",
+province: "黑龙江",
+info: "以黑龙江呼兰区命名"
+},
+{
+district: "宝山区",
+road: "牡丹江路",
+province: "黑龙江",
+info: "主干道，连接淞宝地区和吴淞口，周边有商业街"
+},
+{
+district: "宝山区",
+road: "虎林路",
+province: "黑龙江",
+info: "张庙附近，蕰藻浜和西泗塘交汇处西南侧"
+},
+{
+district: "宝山区",
+road: "富锦路",
+province: "黑龙江",
+info: "以黑龙江富锦市命名"
+},
+{
+district: "宝山区",
+road: "抚远路",
+province: "黑龙江",
+info: "以黑龙江抚远市命名"
+},
+{
+district: "宝山区",
+road: "鹤岗路",
+province: "黑龙江",
+info: "以黑龙江鹤岗市命名"
+},
+{
+district: "宝山区",
+road: "安达路",
+province: "黑龙江",
+info: "以黑龙江安达市命名"
+},
+{
+district: "宝山区",
+road: "北安路",
+province: "黑龙江",
+info: "以黑龙江北安市命名"
+},
+{
+district: "宝山区",
+road: "密山路",
+province: "黑龙江",
+info: "以黑龙江密山市命名"
+},
+{
+district: "宝山区",
+road: "铁力路",
+province: "黑龙江",
+info: "以黑龙江铁力市命名"
+},
+{
+district: "宝山区",
+road: "呼玛路",
+province: "黑龙江",
+info: "以黑龙江呼玛县命名"
+},
+{
+district: "宝山区",
+road: "漠河路",
+province: "黑龙江",
+info: "以黑龙江漠河市命名"
+},
+{
+district: "宝山区",
+road: "绥化路",
+province: "黑龙江",
+info: "以黑龙江绥化市命名"
+},
+{
+district: "宝山区",
+road: "双城路",
+province: "黑龙江",
+info: "系统化采用东北市县名称，形成集群效应"
+},
+{
+district: "宝山区",
+road: "盘古路",
+province: "黑龙江",
+info: "东北小城镇命名，延续方位对应规则"
+},
+{
+district: "宝山区",
+road: "哈尔滨路",
+province: "黑龙江",
+info: "是宝山区的重要道路，有一些商业设施。"
+},
+{
+district: "宝山区",
+road: "大庆路",
+province: "黑龙江",
+info: "周边有居民区和工业设施。"
+},
+{
+district: "宝山区",
+road: "佳木斯路",
+province: "黑龙江",
+info: "以社区商业为主。"
+},
+{
+district: "宝山区",
+road: "友谊路",
+province: "黑龙江",
+info: "以黑龙江双鸭山市下辖的友谊县命名"
+},
+{
+district: "宝山区",
+road: "韶山路",
+province: "湖南",
+info: "北起攀花路南至黄海路，全长约819米"
+},
+{
+district: "宝山区",
+road: "鄂尔多斯路",
+province: "内蒙古",
+info: "跨宝山普陀区，北起环镇北路南至环镇南路"
+},
+{
+district: "宝山区",
+road: "贺兰山路",
+province: "内蒙古",
+info: "大场镇，北起走马塘路南至丰德路"
+},
+{
+district: "宝山区",
+road: "新泰路",
+province: "山东",
+info: "以山东新泰市命名"
+},
+{
+district: "宝山区",
+road: "河曲路",
+province: "山西",
+info: "以山西河曲县命名"
+},
+{
+district: "宝山区",
+road: "云西路",
+province: "山西",
+info: "以山西左云县命名"
+},
+{
+district: "宝山区",
+road: "临晋路",
+province: "山西",
+info: "以山西临猗县临晋镇命名"
+},
+{
+district: "宝山区",
+road: "塔城路",
+province: "新疆",
+info: "贯穿嘉定老城交通要道，汇集居民区银行学校公园"
+},
+{
+district: "宝山区",
+road: "福海路",
+province: "新疆",
+info: "嘉定南门最具烟火气道路，沿线商店超市饭店密集"
+},
+{
+district: "宝山区",
+road: "富蕴路",
+province: "新疆",
+info: "嘉定南门居民日常必经路，富蕴县誉为"宝石之乡""
+},
+{
+district: "宝山区",
+road: "昌吉路",
+province: "新疆",
+info: "安亭"四纵五横"主干线，长3.2公里，最繁荣街道"
+},
+{
+district: "宝山区",
+road: "阿克苏路",
+province: "新疆",
+info: "嘉定新城主干道，5月金鸡菊盛开景色优美"
+},
+{
+district: "宝山区",
+road: "伊宁路",
+province: "新疆",
+info: "安亭东西主干道，长8公里，沿线有赛车场汽车博览公园"
+},
+{
+district: "宝山区",
+road: "博乐路",
+province: "新疆",
+info: "位于嘉定老城内"
+},
+{
+district: "宝山区",
+road: "新源路",
+province: "新疆",
+info: "以新疆新源县命名"
+},
+{
+district: "宝山区",
+road: "温宿路",
+province: "新疆",
+info: "位于嘉定老城内"
+},
+{
+district: "宝山区",
+road: "叶城路",
+province: "新疆",
+info: "嘉定区中部，老城与新城之间，东西向"
+},
+{
+district: "宝山区",
+road: "墨玉路",
+province: "新疆",
+info: "安亭镇中部重要南北向道路"
+},
+{
+district: "宝山区",
+road: "泽普路",
+province: "新疆",
+info: "安亭汽车站北侧，泽普县为闵行区对口援建"
+},
+{
+district: "宝山区",
+road: "于田路",
+province: "新疆",
+info: "以新疆于田县命名"
+},
+{
+district: "宝山区",
+road: "民丰路",
+province: "新疆",
+info: "大众汽车制造基地北侧，民丰县位于昆仑山北麓"
+},
+{
+district: "宝山区",
+road: "裕民路",
+province: "新疆",
+info: "西起嘉罗公路东至沪宜公路，长2.5公里，路南有汇龙潭公园"
+},
+{
+district: "宝山区",
+road: "巴楚路",
+province: "新疆",
+info: "马陆镇，沪翔高速北胜辛南路东，静安区对口援建县"
+},
+{
+district: "宝山区",
+road: "霍城路",
+province: "新疆",
+info: "北起树屏路南至回城南路，全长约4.3公里"
+},
+{
+district: "闵行区",
+road: "莲花南路",
+province: "广西",
+info: "上海最长花命名马路，长14.5公里，1998年建，2021年大修"
+},
+{
+district: "闵行区",
+road: "龙里路",
+province: "贵州",
+info: "梅陇镇，分两段，长约1.43公里"
+},
+{
+district: "闵行区",
+road: "吴中路",
+province: "江苏",
+info: "连接徐汇长宁交通干道，长超8公里，有地铁10号线"
+},
+{
+district: "闵行区",
+road: "宁虹路",
+province: "江苏",
+info: "北部，连接南京和虹桥枢纽，促进长三角一体化"
+},
+{
+district: "闵行区",
+road: "锡虹路",
+province: "江苏",
+info: "北部，连接无锡和虹桥枢纽，促进长三角一体化"
+},
+{
+district: "闵行区",
+road: "扬虹路",
+province: "江苏",
+info: "北部，连接扬州和虹桥枢纽，促进长三角一体化"
+},
+{
+district: "闵行区",
+road: "通虹路",
+province: "江苏",
+info: "北部，连接南通和虹桥枢纽，促进长三角一体化"
+},
+{
+district: "闵行区",
+road: "泰虹路",
+province: "江苏",
+info: "北部，连接泰州和虹桥枢纽，促进长三角一体化"
+},
+{
+district: "闵行区",
+road: "万源路",
+province: "四川",
+info: "分南北两段，长约4.7公里"
+},
+{
+district: "闵行区",
+road: "新龙路",
+province: "四川",
+info: "七宝镇，长约2.4公里"
+},
+{
+district: "闵行区",
+road: "金阳路",
+province: "四川",
+info: "东起田园路西至中春路，长约2.37公里"
+},
+{
+district: "闵行区",
+road: "江川路",
+province: "云南",
+info: "原"一号路"，"中华香樟一条街"，上海十二条特色街之一"
+},
+{
+district: "闵行区",
+road: "华宁路",
+province: "云南",
+info: "老闵行"二号路"，华宁县有"天然温室"之称"
+},
+{
+district: "闵行区",
+road: "剑川路",
+province: "云南",
+info: "南部东西主干道，沿线有龙湖天街购物中心，近高校"
+},
+{
+district: "闵行区",
+road: "临沧路",
+province: "云南",
+info: "南部，正拓宽工程，临沧为水电能源基地和普洱茶原产地"
+},
+{
+district: "闵行区",
+road: "景谷路",
+province: "云南",
+info: "南部，景谷县矿藏资源丰富"
+},
+{
+district: "闵行区",
+road: "昆阳路",
+province: "云南",
+info: "南部，昆阳镇为郑和故里，滇池南岸"
+},
+{
+district: "闵行区",
+road: "鹤庆路",
+province: "云南",
+info: "南部，鹤庆县矿产资源丰富，周边有居民区社区商业"
+},
+{
+district: "闵行区",
+road: "瑞丽路",
+province: "云南",
+info: "南部，瑞丽为西南最大内陆口岸和珠宝集散中心"
+},
+{
+district: "闵行区",
+road: "兰坪路",
+province: "云南",
+info: "南部，"三江并流"核心区，铅锌矿储量亚洲第一"
+},
+{
+district: "闵行区",
+road: "东川路",
+province: "云南",
+info: "南部，"天南铜都"，上海交大闵行校区所在，近开发区高校"
+},
+{
+district: "闵行区",
+road: "宾川路",
+province: "云南",
+info: "南部，境内有国家AAAA级鸡足山风景区"
+},
+{
+district: "闵行区",
+road: "元江路",
+province: "云南",
+info: "南部东西向，元江县"一山分四季十里不同天"，有工业企业"
+},
+{
+district: "闵行区",
+road: "澄江路",
+province: "云南",
+info: "南部，沟通龙吴路和莲花南路，闵行海事局所在"
+},
+{
+district: "闵行区",
+road: "墨江路",
+province: "云南",
+info: "南部，北回归线穿过，"哈尼之乡回归之城双胞之家""
+},
+{
+district: "闵行区",
+road: "金平路",
+province: "云南",
+info: "南部，与越南接壤，"滇金之王"，有步行街商业氛围好"
+},
+{
+district: "闵行区",
+road: "申昆路",
+province: "云南",
+info: "北部，连接上海市区和昆明重要通道"
+},
+{
+district: "闵行区",
+road: "甘河路",
+province: "云南",
+info: "90年代建，南北向，长2.3公里"
+},
+{
+district: "闵行区",
+road: "武宁路",
+province: "云南",
+info: "90年代建，东西向，长2.5公里"
+},
+{
+district: "闵行区",
+road: "济川路",
+province: "云南",
+info: "90年代建，南北向，长2.7公里，有商业生活服务设施"
+},
+{
+district: "闵行区",
+road: "来平路",
+province: "云南",
+info: "90年代建，东西向，长2.2公里"
+},
+{
+district: "闵行区",
+road: "华坪路",
+province: "云南",
+info: "沿线有生活服务设施和小型商业店铺"
+},
+{
+district: "闵行区",
+road: "永平路",
+province: "云南",
+info: "以社区配套商业为主"
+},
+{
+district: "闵行区",
+road: "盈江路",
+province: "云南",
+info: "周边多居民区，有少量商业"
+},
+{
+district: "闵行区",
+road: "沧源路",
+province: "云南",
+info: "近闵行开发区，有工业配套和生活商业"
+},
+{
+district: "闵行区",
+road: "大理路",
+province: "云南",
+info: "周边有居民区和社区商业"
+},
+{
+district: "闵行区",
+road: "保山路",
+province: "云南",
+info: "以社区商业为主"
+},
+{
+district: "闵行区",
+road: "文井路",
+province: "云南",
+info: "地铁23号线站点，体现景东彝族文化"
+},
+{
+district: "闵行区",
+road: "沪杭公路",
+province: "浙江",
+info: "通往浙江重要通道，历史悠久，见证长三角交通发展"
+},
+{
+district: "闵行区",
+road: "甬虹路",
+province: "浙江",
+info: "北部，连接宁波和虹桥枢纽，促进长三角一体化"
+},
+{
+district: "闵行区",
+road: "衢虹路",
+province: "浙江",
+info: "北部，连接衢州和虹桥枢纽，促进长三角一体化"
+},
+{
+district: "闵行区",
+road: "温虹路",
+province: "浙江",
+info: "北部，连接温州和虹桥枢纽，促进长三角一体化"
+},
+{
+district: "闵行区",
+road: "梅州路",
+province: "广东",
+info: "90年代建，东西向，长2.3公里，少数广东系列路"
+},
+{
+district: "普陀区",
+road: "洛川路",
+province: "陕西",
+info: "1954年建宜川新村时筑，2021年获"精品示范路"，融入戏曲文化"
+},
+{
+district: "普陀区",
+road: "铜川路",
+province: "陕西",
+info: "曾是著名水产市场所在地，现有商业和生活配套"
+},
+{
+district: "普陀区",
+road: "宜川路",
+province: "陕西",
+info: "配合宜川新村建设开辟，沿路有宜川公园甘泉中学"
+},
+{
+district: "普陀区",
+road: "延长路",
+province: "陕西",
+info: "普陀区主要道路之一"
+},
+{
+district: "普陀区",
+road: "甘泉路",
+province: "陕西",
+info: "子长路以东为步行街，沿途有甘泉新村"
+},
+{
+district: "普陀区",
+road: "富平路",
+province: "陕西",
+info: "位于普陀区北面"
+},
+{
+district: "普陀区",
+road: "岚皋路",
+province: "陕西",
+info: "位于普陀区北面"
+},
+{
+district: "普陀区",
+road: "定边路",
+province: "陕西",
+info: "普陀区道路"
+},
+{
+district: "普陀区",
+road: "镇坪路",
+province: "陕西",
+info: "普陀区道路"
+},
+{
+district: "普陀区",
+road: "志丹路",
+province: "陕西",
+info: "1953年建，纪念红军将领刘志丹，沿途有甘泉新村"
+},
+{
+district: "普陀区",
+road: "子长路",
+province: "陕西",
+info: "1953年建，纪念陕北革命根据地创建者谢子长"
+},
+{
+district: "普陀区",
+road: "礼泉路",
+province: "陕西",
+info: "西北部桃浦地区，有工业配套和生活服务设施"
+},
+{
+district: "普陀区",
+road: "子洲路",
+province: "陕西",
+info: "周边以居民区为主，有社区商业"
+},
+{
+district: "普陀区",
+road: "清涧路",
+province: "陕西",
+info: "有社区商业和生活服务设施"
+},
+{
+district: "普陀区",
+road: "武威路",
+province: "甘肃",
+info: "桃浦地区，有工业企业和生活配套商业"
+},
+{
+district: "普陀区",
+road: "敦煌路",
+province: "甘肃",
+info: "位于桃浦地区"
+},
+{
+district: "普陀区",
+road: "祁连山路",
+province: "甘肃",
+info: "1954年建，桃浦地区，沿线有居民区和商业"
+},
+{
+district: "普陀区",
+road: "金昌路",
+province: "甘肃",
+info: "普陀区道路"
+},
+{
+district: "普陀区",
+road: "山丹路",
+province: "甘肃",
+info: "普陀区道路"
+},
+{
+district: "普陀区",
+road: "玉门路",
+province: "甘肃",
+info: "普陀区道路"
+},
+{
+district: "普陀区",
+road: "皋兰山路",
+province: "甘肃",
+info: "桃浦镇，长1123米，城市支路"
+},
+{
+district: "普陀区",
+road: "月牙泉路",
+province: "甘肃",
+info: "真如城市副中心，长265米，城市支路"
+},
+{
+district: "普陀区",
+road: "碌曲路",
+province: "甘肃",
+info: "石泉路街道，长136米，城市支路"
+},
+{
+district: "普陀区",
+road: "兰州路",
+province: "甘肃",
+info: "周边以居民区为主，有社区商业"
+},
+{
+district: "普陀区",
+road: "天水路",
+province: "甘肃",
+info: "有生活服务设施"
+},
+{
+district: "普陀区",
+road: "中宁路",
+province: "宁夏",
+info: "1959年建，石泉路街道，长630米"
+},
+{
+district: "普陀区",
+road: "丹巴路",
+province: "四川",
+info: "长风地区南北向道路，2010年打通"断头路"，连接商务区"
+},
+{
+district: "普陀区",
+road: "泸定路",
+province: "四川",
+info: "儿童医院所在，2010年泸定路桥通车，纪念"飞夺泸定桥""
+},
+{
+district: "普陀区",
+road: "中江路",
+province: "四川",
+info: "以四川德阳中江县命名"
+},
+{
+district: "普陀区",
+road: "简阳路",
+province: "四川",
+info: "长征镇，长198米，城市支路"
+},
+{
+district: "普陀区",
+road: "青衣江路",
+province: "四川",
+info: "长251米，城市支路"
+},
+{
+district: "普陀区",
+road: "金沙江路",
+province: "四川",
+info: "主要干道，有长风大悦城等商业综合体，长风商圈"
+},
+{
+district: "普陀区",
+road: "大渡河路",
+province: "四川",
+info: "沿线有商业办公设施，靠近长风商圈"
+},
+{
+district: "普陀区",
+road: "同普路",
+province: "西藏",
+info: "西南部，长1504米，2024年纳入精品示范区改建工程"
+},
+{
+district: "普陀区",
+road: "怒江路",
+province: "云南",
+info: "有餐饮店铺，靠近长风公园"
+},
+{
+district: "普陀区",
+road: "潮州路",
+province: "广东",
+info: "位于普陀区，以广东潮州市命名"
+},
+{
+district: "浦东新区",
+road: "华京路",
+province: "北京",
+info: "外高桥保税区，体现国际化特色"
+},
+{
+district: "浦东新区",
+road: "金京路",
+province: "北京",
+info: "金桥区，寓意与首都合作"
+},
+{
+district: "浦东新区",
+road: "港澳路",
+province: "澳门",
+info: "外高桥保税区重要道路"
+},
+{
+district: "浦东新区",
+road: "金张路",
+province: "河北",
+info: "出口加工区全国省份命名"
+},
+{
+district: "浦东新区",
+road: "芙蓉路",
+province: "湖南",
+info: "浦东地区重要道路"
+},
+{
+district: "浦东新区",
+road: "荷塘路",
+province: "湖南",
+info: "张江镇沿河公路，长2.5公里"
+},
+{
+district: "浦东新区",
+road: "东昌路",
+province: "山东",
+info: "1928年建，浦东首条山东地名路，曾称"浦东南京路""
+},
+{
+district: "浦东新区",
+road: "峨山路",
+province: "山东",
+info: "浦东山东地名道路系列"
+},
+{
+district: "浦东新区",
+road: "菏泽路",
+province: "山东",
+info: "重要道路，商业氛围浓厚"
+},
+{
+district: "浦东新区",
+road: "蓝村路",
+province: "山东",
+info: "体现山东地名偏好，源于南下干部情感"
+},
+{
+district: "浦东新区",
+road: "崂山路",
+province: "山东",
+info: "浦东重要交通要道"
+},
+{
+district: "浦东新区",
+road: "临沂路",
+province: "山东",
+info: "浦东山东地名道路代表"
+},
+{
+district: "浦东新区",
+road: "栖霞路",
+province: "山东",
+info: "山东行政区划命名，山东干部南下支援背景"
+},
+{
+district: "浦东新区",
+road: "乳山路",
+province: "山东",
+info: "体现山东地名熟悉度，南下干部贡献"
+},
+{
+district: "浦东新区",
+road: "台儿庄路",
+province: "山东",
+info: "重要道路，周边商业文化设施"
+},
+{
+district: "浦东新区",
+road: "潍坊路",
+province: "山东",
+info: "沿江重要道路，浦东开发开放标志"
+},
+{
+district: "浦东新区",
+road: "五莲路",
+province: "山东",
+info: "重要道路，周边居民商业区"
+},
+{
+district: "浦东新区",
+road: "雪野路",
+province: "山东",
+info: "世博园区新建，延续山东命名传统"
+},
+{
+district: "浦东新区",
+road: "枣庄路",
+province: "山东",
+info: "重要道路，周边工业商业区"
+},
+{
+district: "浦东新区",
+road: "蓬莱路",
+province: "山东",
+info: "位于陆家嘴附近，有一些商业和办公设施。"
+},
+{
+district: "浦东新区",
+road: "济宁路",
+province: "山东",
+info: "有一些生活服务设施。"
+},
+{
+district: "浦东新区",
+road: "历城路",
+province: "山东",
+info: "位于浦东新区（靠近世博园区），有一些商业和办公设施。"
+},
+{
+district: "浦东新区",
+road: "寿光路",
+province: "山东",
+info: "位于浦东新区，以山东寿光市命名"
+},
+{
+district: "浦东新区",
+road: "向城路",
+province: "山东",
+info: "位于浦东新区，以山东向城镇命名"
+},
+{
+district: "浦东新区",
+road: "昌里路",
+province: "山东",
+info: "位于浦东新区，以山东昌里镇命名"
+},
+{
+district: "浦东新区",
+road: "平度路",
+province: "山东",
+info: "位于浦东新区，以山东平度市命名"
+},
+{
+district: "浦东新区",
+road: "日照路",
+province: "山东",
+info: "位于浦东新区，以山东日照市命名"
+},
+{
+district: "浦东新区",
+road: "基隆路",
+province: "台湾",
+info: "外高桥保税区重要道路"
+},
+{
+district: "浦东新区",
+road: "台中路",
+province: "台湾",
+info: "外高桥保税区重要道路"
+},
+{
+district: "浦东新区",
+road: "桃园路",
+province: "台湾",
+info: "体现两岸地名使用"
+},
+{
+district: "浦东新区",
+road: "港九路",
+province: "香港",
+info: "外高桥保税区重要道路"
+},
+{
+district: "浦东新区",
+road: "浙桥路",
+province: "浙江",
+info: "金桥出口加工区，象征全国协作"
+},
+{
+district: "浦东新区",
+road: "禄口路",
+province: "江苏",
+info: "以南京禄口街道命名，位于浦东机场周边"
+},
+{
+district: "浦东新区",
+road: "香格里拉路",
+province: "云南",
+info: "北起农家路，南至美兰路，对应"心中的日月"旅游胜地"
+},
+{
+district: "长宁区",
+road: "番禺路",
+province: "广东",
+info: "连接徐汇区重要道路，补充省市区县地名层级"
+},
+{
+district: "长宁区",
+road: "遵义路",
+province: "贵州",
+info: "长1300余米，遵义会议召开地，沿线商业繁华"
+},
+{
+district: "长宁区",
+road: "茅台路",
+province: "贵州",
+info: "1953年建，长2077米，红军四渡赤水地"
+},
+{
+district: "长宁区",
+road: "安顺路",
+province: "贵州",
+info: "1985-1986年建，长2公里，"中国瀑乡""
+},
+{
+district: "长宁区",
+road: "威宁路",
+province: "贵州",
+info: "1989年建，长1.5公里，贵州最大民族自治县"
+},
+{
+district: "长宁区",
+road: "娄山关路",
+province: "贵州",
+info: "1954年建，长1146米，红军长征首次大捷地"
+},
+{
+district: "长宁区",
+road: "水城路",
+province: "贵州",
+info: "1985-1986年建，"中国凉都"六盘水政治中心"
+},
+{
+district: "长宁区",
+road: "紫云路",
+province: "贵州",
+info: "1951年建，长816米，呈U形，红军经过地"
+},
+{
+district: "长宁区",
+road: "兴义路",
+province: "贵州",
+info: "长662米，"三省通衢"黔西南州首府"
+},
+{
+district: "长宁区",
+road: "云雾山路",
+province: "贵州",
+info: "南起仙霞西路北至北虹路，苗岭山脉主峰"
+},
+{
+district: "长宁区",
+road: "玉屏路",
+province: "贵州",
+info: "南起仙霞路北至长宁路，"中国箫笛之乡""
+},
+{
+district: "长宁区",
+road: "锦屏路",
+province: "贵州",
+info: "南起仙霞路北至茅台路，"杉木之乡""
+},
+{
+district: "长宁区",
+road: "芙蓉江路",
+province: "贵州",
+info: "南起仙霞路北至长宁路，"千里画廊"乌江支流"
+},
+{
+district: "长宁区",
+road: "剑河路",
+province: "贵州",
+info: "南起仙霞西路北至北虹路，有仰阿莎湖"
+},
+{
+district: "长宁区",
+road: "福泉路",
+province: "贵州",
+info: "南起仙霞西路北至北虹路，"亚洲磷都""
+},
+{
+district: "长宁区",
+road: "协和路",
+province: "贵州",
+info: "南起仙霞西路北至北虹路，仁怀市下辖镇"
+},
+{
+district: "长宁区",
+road: "金钟路",
+province: "贵州",
+info: "南起仙霞西路北至北虹路，赫章县下辖镇"
+},
+{
+district: "长宁区",
+road: "可乐路",
+province: "贵州",
+info: "西起淞虹路东至哈密路，夜郎文化"殷墟""
+},
+{
+district: "长宁区",
+road: "江苏路",
+province: "江苏",
+info: "1906年建，原忆定盘路，长1834.6米，文化底蕴深厚"
+},
+{
+district: "长宁区",
+road: "淮安路",
+province: "江苏",
+info: "部分路段靠近南京西路商圈，周边以居民区与小型商业店铺为主，原属静安区后划归长宁区"
+},
+{
+district: "长宁区",
+road: "愚园路",
+province: "江苏",
+info: "以南京历史园林"愚园"命名，是长宁区重要道路"
+},
+{
+district: "长宁区",
+road: "宁虹路",
+province: "江苏",
+info: "以南京简称"宁"命名，连接虹桥交通枢纽"
+},
+{
+district: "长宁区",
+road: "延安西路",
+province: "陕西",
+info: "横贯上海延安路西段，连接虹桥枢纽，革命圣地命名"
+},
+{
+district: "长宁区",
+road: "长宁路",
+province: "四川",
+info: "1901年建，原白利南路，1943年改名，区最重要干道"
+},
+{
+district: "长宁区",
+road: "双流路",
+province: "四川",
+info: "北起长宁路南至茅台路，长950米，成都双流区"
+},
+{
+district: "长宁区",
+road: "泸定路",
+province: "四川",
+info: "泸定桥所在地，北起天山路南至仙霞路"
+},
+{
+district: "长宁区",
+road: "伊犁路",
+province: "新疆",
+info: "长705米，"北疆第一春"伊犁河谷"
+},
+{
+district: "长宁区",
+road: "天山路",
+province: "新疆",
+info: "1925年建，原林肯路，世界最大独立纬向山系"
+},
+{
+district: "长宁区",
+road: "哈密路",
+province: "新疆",
+info: "1901年建，原罗别根路，"新疆门户"哈密瓜之乡"
+},
+{
+district: "长宁区",
+road: "长顺路",
+province: "贵州",
+info: "以社区配套商业为主。"
+},
+{
+district: "长宁区",
+road: "平塘路",
+province: "贵州",
+info: "周边多为居民区，有一些生活服务设施。"
+},
+{
+district: "长宁区",
+road: "凯里路",
+province: "贵州",
+info: "周边有居民区和少量商业。"
+},
+{
+district: "长宁区",
+road: "都匀路",
+province: "贵州",
+info: "有一些生活服务设施。"
+},
+{
+district: "长宁区",
+road: "镇宁路",
+province: "贵州",
+info: "横跨长宁、静安两区，以贵州安顺市下辖的镇宁布依族苗族自治县命名"
+},
+{
+district: "黄浦区",
+road: "西藏路",
+province: "西藏",
+info: "靠近人民广场商圈，南北向，周边有来福士广场等商业设施。"
+},
+{
+district: "黄浦区",
+road: "云南路",
+province: "云南",
+info: "位于南京路附近，是著名的美食街，靠近人民广场商圈。"
+},
+{
+district: "黄浦区",
+road: "滇池路",
+province: "云南",
+info: "外滩历史文化街区的重要组成部分，原名仁记路，以云南省最大淡水湖命名"
+},
+{
+district: "黄浦区",
+road: "昭通路",
+province: "云南",
+info: "全长仅150米，初名交通路，1947年更名"
+},
+{
+district: "黄浦区",
+road: "永胜路",
+province: "云南",
+info: "位于延安东路与人民路之间，保留老上海里弄风貌"
+},
+{
+district: "黄浦区",
+road: "蒙自路",
+province: "云南",
+info: "串联世博会博物馆与老卢湾烟火气街区，原名八里桥路"
+},
+{
+district: "黄浦区",
+road: "贵州路",
+province: "贵州",
+info: "在南京路周边，靠近人民广场，有一些餐饮和小型商业店铺。"
+},
+{
+district: "黄浦区",
+road: "广西路",
+province: "广西",
+info: "靠近人民广场，周边商业以小型商铺和餐饮为主。"
+},
+{
+district: "黄浦区",
+road: "浙江路",
+province: "浙江",
+info: "临近南京路步行街，属于人民广场商圈范畴，商业氛围浓厚。"
+},
+{
+district: "黄浦区",
+road: "山西路",
+province: "山西",
+info: "位于南京路附近，周边有各类零售店铺和餐馆。"
+},
+{
+district: "黄浦区",
+road: "江西路",
+province: "江西",
+info: "靠近外滩商圈，沿线有一些写字楼和商业店铺。"
+},
+{
+district: "黄浦区",
+road: "四川路",
+province: "四川",
+info: "分为四川北路、四川中路等，四川北路是著名商业街，有虹口龙之梦等商业体，属于四川北路商圈。"
+},
+{
+district: "黄浦区",
+road: "北京路",
+province: "北京",
+info: "包括北京东路，靠近外滩，曾是“五金街”。"
+},
+{
+district: "黄浦区",
+road: "南京东路",
+province: "江苏",
+info: "上海最著名的商业街之一，有南京路步行街，是重要的购物和旅游目的地。"
+},
+{
+district: "黄浦区",
+road: "南京西路",
+province: "江苏",
+info: "与南京东路共同构成上海重要商业轴线，以江苏省会南京命名"
+},
+{
+district: "黄浦区",
+road: "金陵东路",
+province: "江苏",
+info: "以南京古称"金陵"命名，位于外滩地区"
+},
+{
+district: "黄浦区",
+road: "金陵西路",
+province: "江苏",
+info: "以南京古称"金陵"命名，与金陵东路相连"
+},
+{
+district: "黄浦区",
+road: "秝陵路",
+province: "江苏",
+info: "以南京古地名"秝陵"命名，位于南京路商圈附近"
+},
+{
+district: "黄浦区",
+road: "宁波路",
+province: "浙江",
+info: "靠近外滩，周边有一些办公场所和餐饮店家。"
+},
+{
+district: "黄浦区",
+road: "天津路",
+province: "天津",
+info: "位于外滩附近，有不少小型商铺和旅社。"
+},
+{
+district: "黄浦区",
+road: "九江路",
+province: "江西",
+info: "靠近外滩，沿线有银行、写字楼等。"
+},
+{
+district: "黄浦区",
+road: "汉口路",
+province: "湖北",
+info: "靠近外滩，有众多报社旧址等文化资源，也有一些餐饮娱乐场所。"
+},
+{
+district: "黄浦区",
+road: "青海路",
+province: "青海",
+info: "跨静安和黄浦两区，静安段较短，主体在黄浦区，以青海省命名"
+},
+{
+district: "黄浦区",
+road: "黄陂南路",
+province: "湖北",
+info: "原为黄陂县，现为武汉市黄陂区。历史上为重要商业街区。"
+},
+{
+district: "黄浦区",
+road: "福州路",
+province: "福建",
+info: "被誉为“文化街”，有众多书店、文具店等，靠近人民广场和外滩商圈。"
+},
+{
+district: "黄浦区",
+road: "福建路",
+province: "福建",
+info: "以福建省命名"
+},
+{
+district: "黄浦区",
+road: "太仓路",
+province: "江苏",
+info: "东起普安路，西至重庆南路，位于新天地商圈，周边有石库门建筑群，有很多时尚的咖啡馆、餐厅和艺术工作室。"
+},
+{
+district: "黄浦区",
+road: "湖北路",
+province: "湖北",
+info: "位于外滩附近，有一些商业和办公设施。"
+},
+{
+district: "黄浦区",
+road: "河南路",
+province: "河南",
+info: "靠近外滩和南京路，有一些商业店铺。"
+},
+{
+district: "黄浦区",
+road: "湖南路",
+province: "湖南",
+info: "位于人民广场商圈附近，有一些小型商业。"
+},
+{
+district: "黄浦区",
+road: "安徽路",
+province: "安徽",
+info: "靠近外滩，有一些餐饮和商业设施。"
+},
+{
+district: "黄浦区",
+road: "广东路",
+province: "广东",
+info: "曾是上海的金融中心之一，俗称“五马路”，是东西走向但以省份命名的特例。"
+},
+{
+district: "徐汇区",
+road: "百色路",
+province: "广西",
+info: "革命老区命名，西南方位对应，周边多居住区"
+},
+{
+district: "徐汇区",
+road: "恭城路",
+province: "广西",
+info: "1955年徐家汇路系调整时辟筑"
+},
+{
+district: "徐汇区",
+road: "桂林路",
+province: "广西",
+info: "知名旅游城市命名，串联高校与公园"
+},
+{
+district: "徐汇区",
+road: "桂平路",
+province: "广西",
+info: "1987年筑路，全长约3.5公里"
+},
+{
+district: "徐汇区",
+road: "柳州路",
+province: "广西",
+info: "广西道路集群，南北向主干道"
+},
+{
+district: "徐汇区",
+road: "南丹路",
+province: "广西",
+info: "1950年代修筑，全长约2.35公里"
+},
+{
+district: "徐汇区",
+road: "南宁路",
+province: "广西",
+info: "方位对应原则，区行政中心主干道"
+},
+{
+district: "徐汇区",
+road: "钦州路",
+province: "广西",
+info: "原习勤路，1980年改名，长约7.7公里"
+},
+{
+district: "徐汇区",
+road: "田林路",
+province: "广西",
+info: "1987年建商业街，徐汇区重要商业街"
+},
+{
+district: "徐汇区",
+road: "永福路",
+province: "广西",
+info: "1930年筑，原古神父路，1943年改名"
+},
+{
+district: "徐汇区",
+road: "宝庆路",
+province: "湖南",
+info: "1902年辟路，上海交响音乐博物馆所在地"
+},
+{
+district: "徐汇区",
+road: "茶陵路",
+province: "湖南",
+info: "以湖南茶陵县命名"
+},
+{
+district: "徐汇区",
+road: "东安路",
+province: "湖南",
+info: "原东庙桥路，1964年改现名"
+},
+{
+district: "徐汇区",
+road: "衡山路",
+province: "湖南",
+info: "1922年建，原贝当路，"东方香榭丽舍大街""
+},
+{
+district: "徐汇区",
+road: "湖南路",
+province: "湖南",
+info: "衡复历史文化风貌区内，全长1025米"
+},
+{
+district: "徐汇区",
+road: "华容路",
+province: "湖南",
+info: "以湖南华容县命名"
+},
+{
+district: "徐汇区",
+road: "零陵路",
+province: "湖南",
+info: "以湖南零陵县命名"
+},
+{
+district: "徐汇区",
+road: "平江路",
+province: "湖南",
+info: "1920年代上海华界中心，曾叫"市政府路""
+},
+{
+district: "徐汇区",
+road: "双峰路",
+province: "湖南",
+info: "以湖南双峰县命名"
+},
+{
+district: "徐汇区",
+road: "桃江路",
+province: "湖南",
+info: "1943年改靖江路，1980年改现名"
+},
+{
+district: "徐汇区",
+road: "岳阳路",
+province: "湖南",
+info: "1912年筑，原祁齐路，全长947米"
+},
+{
+district: "徐汇区",
+road: "常熟路",
+province: "江苏",
+info: "1901年建，原善钟路，全长约716米"
+},
+{
+district: "徐汇区",
+road: "高邮路",
+province: "江苏",
+info: "1925年筑，原高狄爱路，全长349米"
+},
+{
+district: "徐汇区",
+road: "汾阳路",
+province: "山西",
+info: "以山西汾阳市命名"
+},
+{
+district: "徐汇区",
+road: "太原路",
+province: "山西",
+info: "以山西太原市命名"
+},
+{
+district: "徐汇区",
+road: "乌鲁木齐南路",
+province: "新疆",
+info: "原法租界巨福路，1954年更名，历史风貌保护路段"
+},
+{
+district: "徐汇区",
+road: "嘉善路",
+province: "浙江",
+info: "原法租界甘世东路，1943年更名，体现沪浙联系"
+},
+{
+district: "徐汇区",
+road: "吴兴路",
+province: "浙江",
+info: "原法租界甘世东路，1943年更名，体现沪浙联系"
+},
+{
+district: "徐汇区",
+road: "华宁路",
+province: "云南",
+info: "沿线有一些工业企业和生活配套商业。"
+},
+{
+district: "徐汇区",
+road: "苍梧路",
+province: "广西",
+info: "周边有居民区和一些商业网点。"
+},
+{
+district: "徐汇区",
+road: "梧州路",
+province: "广西",
+info: "有一些小型商业店铺。"
+},
+{
+district: "嘉定区",
+road: "天祝路",
+province: "甘肃",
+info: "位于嘉定新城"
+},
+{
+district: "嘉定区",
+road: "阿克苏路",
+province: "新疆",
+info: "新城主干道，5月金鸡菊盛开景色优美"
+},
+{
+district: "嘉定区",
+road: "巴楚路",
+province: "新疆",
+info: "马陆镇，沪翔高速北胜辛南路东，静安区对口援建县"
+},
+{
+district: "嘉定区",
+road: "博乐路",
+province: "新疆",
+info: "位于嘉定老城内"
+},
+{
+district: "嘉定区",
+road: "昌吉路",
+province: "新疆",
+info: "安亭镇"四纵五横"主干线之一"
+},
+{
+district: "嘉定区",
+road: "福海路",
+province: "新疆",
+info: "南门地区最具烟火气道路，沿线商店超市饭店密集"
+},
+{
+district: "嘉定区",
+road: "富蕴路",
+province: "新疆",
+info: "南门居民日常必经路，富蕴县誉为"宝石之乡""
+},
+{
+district: "嘉定区",
+road: "霍城路",
+province: "新疆",
+info: "北起树屏路南至回城南路"
+},
+{
+district: "嘉定区",
+road: "民丰路",
+province: "新疆",
+info: "安亭大众汽车制造基地北侧"
+},
+{
+district: "嘉定区",
+road: "墨玉路",
+province: "新疆",
+info: "安亭镇中部重要南北向道路"
+},
+{
+district: "嘉定区",
+road: "清河路",
+province: "新疆",
+info: "镇中部东西干道，长2.5公里，因原清河桥得名"
+},
+{
+district: "嘉定区",
+road: "塔城路",
+province: "新疆",
+info: "贯穿老城交通要道，汇集居民区银行学校公园"
+},
+{
+district: "嘉定区",
+road: "温宿路",
+province: "新疆",
+info: "位于嘉定老城内"
+},
+{
+district: "嘉定区",
+road: "新源路",
+province: "新疆",
+info: "以新疆新源县命名"
+},
+{
+district: "嘉定区",
+road: "叶城路",
+province: "新疆",
+info: "区中部，东西向走向"
+},
+{
+district: "嘉定区",
+road: "伊宁路",
+province: "新疆",
+info: "安亭镇东西走向城市主干道"
+},
+{
+district: "嘉定区",
+road: "于田路",
+province: "新疆",
+info: "以新疆于田县命名"
+},
+{
+district: "嘉定区",
+road: "裕民路",
+province: "新疆",
+info: "西起嘉罗公路东至沪宜公路"
+},
+{
+district: "嘉定区",
+road: "泽普路",
+province: "新疆",
+info: "安亭汽车站北侧，泽普县为闵行区对口援建县"
+},
+{
+district: "嘉定区",
+road: "喀什路",
+province: "新疆",
+info: "周边有居民区和少量商业。"
+},
+{
+district: "嘉定区",
+road: "和田路",
+province: "新疆",
+info: "有一些生活服务设施。"
+},
+{
+district: "嘉定区",
+road: "库尔勒路",
+province: "新疆",
+info: "以社区配套商业为主。"
+},
+{
+district: "崇明区",
+road: "鼓浪屿路",
+province: "福建",
+info: "以著名旅游岛屿命名，体现崇明海岛特色"
+},
+{
+district: "崇明区",
+road: "湄洲路",
+province: "福建",
+info: "以妈祖文化发源地命名，体现海洋文化传承"
+},
+{
+district: "崇明区",
+road: "东引路",
+province: "福建",
+info: "以东海岛屿命名，呼应崇明地理位置"
+},
+{
+district: "崇明区",
+road: "西引路",
+province: "福建",
+info: "与东引路对应，体现方位命名规律"
+},
+{
+district: "崇明区",
+road: "江西路",
+province: "江西",
+info: "以省份命名，体现全国地名命名传统"
+},
+{
+district: "崇明区",
+road: "四川路",
+province: "四川",
+info: "以省份命名，体现全国地名命名传统"
+},
+{
+district: "崇明区",
+road: "金门路",
+province: "台湾",
+info: "以台海岛屿命名，体现两岸地名使用"
+},
+{
+district: "崇明区",
+road: "玉环路",
+province: "浙江",
+info: "以浙江沿海县市命名，体现长三角联系"
+},
+{
+district: "崇明区",
+road: "岱山路",
+province: "浙江",
+info: "以舟山群岛命名，呼应崇明岛屿身份"
+},
+{
+district: "崇明区",
+road: "官山路",
+province: "浙江",
+info: "以舟山列岛命名，体现海岛地名系列"
+},
+{
+district: "崇明区",
+road: "嵊山路",
+province: "浙江",
+info: "以舟山群岛命名，体现海岛地名系列"
+},
+{
+district: "崇明区",
+road: "花鸟路",
+province: "浙江",
+info: "以花鸟岛命名，寓意生态环境优美"
+},
+{
+district: "崇明区",
+road: "一江山路",
+province: "浙江",
+info: "以历史名岛命名，承载历史文化记忆"
+},
+{
+district: "崇明区",
+road: "大陈路",
+province: "浙江",
+info: "以大陈岛命名，体现海岛地名传统"
+},
+{
+district: "崇明区",
+road: "桃花路",
+province: "浙江",
+info: "以桃花岛命名，寓意春意盎然生态美好"
+},
+{
+district: "奉贤区",
+road: "雷州路",
+province: "广东",
+info: "以广东地名命名，体现奉贤道路命名规律"
+},
+{
+district: "奉贤区",
+road: "惠州路",
+province: "广东",
+info: "以广东地名命名，体现奉贤道路命名规律"
+},
+{
+district: "奉贤区",
+road: "阳春路",
+province: "广东",
+info: "以广东地名命名，体现奉贤道路命名规律"
+},
+{
+district: "奉贤区",
+road: "白沙路",
+province: "广东",
+info: "以广东地名命名，体现奉贤道路命名规律"
+},
+{
+district: "奉贤区",
+road: "白云路",
+province: "广东",
+info: "以广东地名命名，体现奉贤道路命名规律"
+},
+{
+district: "奉贤区",
+road: "惠阳路",
+province: "广东",
+info: "以广东地名命名，体现奉贤道路命名规律"
+},
+{
+district: "奉贤区",
+road: "明城路",
+province: "广东",
+info: "以广东地名命名，体现奉贤道路命名规律"
+},
+{
+district: "奉贤区",
+road: "莲塘路",
+province: "广东",
+info: "以广东地名命名，体现奉贤道路命名规律"
+},
+{
+district: "奉贤区",
+road: "莲都路",
+province: "广东",
+info: "以广东地名命名，体现奉贤道路命名规律"
+},
+{
+district: "奉贤区",
+road: "白石路",
+province: "广东",
+info: "以广东地名命名，体现奉贤道路命名规律"
+},
+{
+district: "奉贤区",
+road: "阳明路",
+province: "广东",
+info: "以广东地名命名，体现奉贤道路命名规律"
+},
+{
+district: "奉贤区",
+road: "广东路",
+province: "广东",
+info: "以省份命名，体现全国地名命名传统"
+},
+{
+district: "奉贤区",
+road: "广西路",
+province: "广西",
+info: "以省份命名，体现全国地名命名传统"
+},
+{
+district: "松江区",
+road: "山东南路",
+province: "山东",
+info: "以省份命名，体现上海移民城市对各省份地域文化包容"
+},
+{
+district: "松江区",
+road: "河南北路",
+province: "河南",
+info: "河南人口大省，体现河南籍移民生活印记和文化交流"
+},
+{
+district: "松江区",
+road: "佛山路",
+province: "广东",
+info: "零星分布外地城市命名，体现命名体系丰富性"
+},
+{
+district: "金山区",
+road: "杭州湾大道",
+province: "浙江",
+info: "金山区濒临杭州湾，体现地理紧密联系和沿海区位特点"
+},
+{
+district: "金山区",
+road: "温州路",
+province: "浙江",
+info: "温州为浙江重要沿海城市，体现两地经济交流人员往来"
+},
+{
+district: "青浦区",
+road: "江苏路",
+province: "江苏",
+info: "青浦与江苏接壤，凸显地理近邻关系和长期互动往来"
+},
+{
+district: "青浦区",
+road: "苏州河路",
+province: "江苏",
+info: "苏州与上海地缘相近人文相亲，体现两地紧密联系"
+}
