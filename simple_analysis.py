@@ -53,7 +53,7 @@ def basic_analysis(data):
         print(f"{i:2d}. {district:<8}: {count:2d}条")
     
     print("\n各省份使用频率排名:")
-    for i, (province, count) in enumerate(province_counts.most_common(15), 1):
+    for i, (province, count) in enumerate(province_counts.most_common(), 1):
         print(f"{i:2d}. {province:<8}: {count:2d}次")
     
     return district_counts, province_counts

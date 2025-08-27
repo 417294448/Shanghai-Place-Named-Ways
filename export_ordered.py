@@ -33,7 +33,7 @@ def export_ordered_roads():
     print('[')
     for i, road in enumerate(ordered_roads):
         comma = ',' if i < len(ordered_roads) - 1 else ''
-        print(f'  {{\n    district: "{road["district"]}",\n    road: "{road["road"]}",\n    province: "{road["province"]}",\n    info: "{road["info"]}",\n  }}{comma}')
+        print(f'  {{\n    district: "{road["district"]}",\n    road: "{road["road"]}",\n    province: "{road["province"]}",\n    info: "{road["info"]}"\n  }}{comma}')
     print(']')
 
 if __name__ == "__main__":
